@@ -1,7 +1,7 @@
-# AluraJsAvancado01
-Repositório para controle de versões do curso de JS Avançado I da Alura.
+# AluraJsAvancado02
+Repositório para controle de versões do curso de JS Avançado II da Alura.
 
-Este curso inclui criação da lógica client side de uma lista de negociações.
+<!-- Este curso inclui aperfeiçoamento da lógica client side de uma lista de negociações.
 
 Conteúdo Detalhado
 
@@ -64,4 +64,4 @@ Conteúdo Detalhado
   * construtor vs super
 
 FIM!
-
+ -->
